@@ -9,7 +9,7 @@
 <tr>
 <td width="53%" valign="top">
 
-## <img src="https://img.shields.io/badge/-%20ABOUT-080D18?style=flat-square&labelColor=080D18" />
+## ABOUT
 
 Desenvolvedor de Sistemas com foco em desenvolvimento de software, arquitetura de soluções e infraestrutura.
 
@@ -27,11 +27,11 @@ Meu objetivo é construir sistemas robustos, eficientes e escaláveis, aplicando
 </td>
 <td width="47%" valign="top">
 
-## <img src="https://img.shields.io/badge/-%20TECHNOLOGIES-080D18?style=flat-square&labelColor=080D18" />
+## TECHNOLOGIES
 
 **LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=ts,js,cpp&theme=dark" height="43" />
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,python,java&theme=dark" height="43" />
 
 **FRAMEWORKS & TOOLS**
 
@@ -55,7 +55,7 @@ Meu objetivo é construir sistemas robustos, eficientes e escaláveis, aplicando
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-%20FEATURED%20PROJECTS-080D18?style=flat-square" />
+## FEATURED PROJECTS
 
 <table>
 <tr>
@@ -122,7 +122,7 @@ Aplicação web com navegação entre páginas, gerenciamento de estado, temas c
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-%20GITHUB%20ACTIVITY-080D18?style=flat-square" />
+## GITHUB ACTIVITY
 
 <div align="center">
 
@@ -142,7 +142,7 @@ Aplicação web com navegação entre páginas, gerenciamento de estado, temas c
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-%20CONTACT-080D18?style=flat-square" />
+## CONTACT
 
 <div align="center">
 
