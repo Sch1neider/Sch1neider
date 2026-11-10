@@ -10,7 +10,7 @@
 <p>
   <strong>Cyber Defense</strong> &nbsp;|&nbsp;
   <strong>Security Operations</strong> &nbsp;|&nbsp;
-  <strong>Backend Engineering</strong>
+  <strong>Backend Engineering</strong>  &nbsp;|&nbsp;
    <strong>Frontend Application Security</strong>
 </p>
 
