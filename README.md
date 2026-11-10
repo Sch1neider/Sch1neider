@@ -10,8 +10,8 @@
 <p>
   <strong>Cyber Defense</strong> &nbsp;|&nbsp;
   <strong>Security Operations</strong> &nbsp;|&nbsp;
-  <strong>Backend Engineering</strong>  &nbsp;|&nbsp;
-   <strong>Frontend Application Security</strong>
+  <strong>Backend Engineering</strong> &nbsp;|&nbsp;
+  <strong>Application Security</strong>
 </p>
 
 <p>
@@ -25,6 +25,7 @@
 ---
 
 ## PROFESSIONAL PROFILE
+
 Systems Developer with a technical background in Cybersecurity, Network Infrastructure, and Penetration Testing, focused on designing, developing, and securing software systems and IT environments. My technical expertise encompasses Secure Software Development (SSDLC), Application Security (AppSec), Infrastructure Security, Network Defense, Vulnerability Assessment, and Penetration Testing methodologies. On the engineering side, I work with backend architecture, API development, database systems, TypeScript, system integration, and modular software design, applying security principles throughout the software development lifecycle. My focus is on identifying vulnerabilities, analyzing attack surfaces, understanding exploitation techniques, implementing defensive controls, and strengthening system resilience through a combination of software engineering, offensive security, and defensive security practices.
 
 ---
@@ -188,13 +189,13 @@ Focused on backend development, service architecture, API engineering, database 
 
 ## SELECTED PROJECTS
 
-Projects focused on backend architecture, application development, data management, and practical engineering.
+A selection of software engineering projects demonstrating backend architecture, application development, security-oriented engineering, data management, and practical system integration.
 
 ### 01. Deskora
 
 **IT SERVICE MANAGEMENT PLATFORM**
 
-A modular ITSM system designed to support IT service operations, incident workflows, and service management processes.
+A modular ITSM platform designed to support enterprise IT service operations, incident workflows, and service management processes.
 
 **Architecture & Implementation**
 
@@ -213,9 +214,11 @@ A modular ITSM system designed to support IT service operations, incident workfl
 
 <sub>Backend implementation completed · Frontend development in progress</sub>
 
+[VIEW SOURCE CODE](https://github.com/Sch1neider/Deskora)
+
 ---
 
-### 02. BussinessHub
+### 02. Businesshub / MarketView Soumans
 
 **FINANCIAL DATA & BACKEND INTEGRATION**
 
@@ -228,11 +231,14 @@ A software application exploring financial market information, backend services,
 - Financial quote data structures
 - Backend and frontend communication
 - Application health monitoring
+- Financial data presentation
 - Modular service integration
 
 **Technology Stack**
 
-`C++` `Crow` `JavaScript` `HTML` `CSS`
+`C++` `Crow` `CMake` `JavaScript` `HTML` `CSS`
+
+[VIEW SOURCE CODE](https://github.com/Sch1neider/Businesshub)
 
 ---
 
@@ -255,6 +261,8 @@ A React application focused on frontend architecture, navigation, state manageme
 
 `React` `JavaScript` `Vite` `CSS`
 
+[VIEW SOURCE CODE](https://github.com/Sch1neider/REACT-blog)
+
 ---
 
 ### 04. BuscaLibras
@@ -276,7 +284,33 @@ A collaborative platform designed to connect individuals and organizations with 
 
 `Node.js` `Express 5` `EJS` `MySQL` `JWT` `Multer`
 
-[View repository](https://github.com/danielperes1/BuscaLibras)
+[VIEW SOURCE CODE](https://github.com/danielperes1/BuscaLibras)
+
+---
+
+### 05. Sistema-JV
+
+**JAVA SOFTWARE PROJECT**
+
+A Java-based software development project included in my programming portfolio.
+
+**Technology Stack**
+
+`Java`
+
+[VIEW SOURCE CODE](https://github.com/Sch1neider/Sistema-JV)
+
+---
+
+### EXPLORE ALL REPOSITORIES
+
+Explore my complete collection of public repositories, technical projects, and software engineering experiments.
+
+<p align="center">
+  <a href="https://github.com/Sch1neider?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-1677C8?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
