@@ -5,194 +5,286 @@
 
 <br/>
 
-# CYBERSECURITY & SOFTWARE ENGINEERING
+<h2>CYBERSECURITY & SOFTWARE ENGINEERING</h2>
 
 <p>
-  <strong>Cyber Defense</strong> &nbsp;·&nbsp;
-  <strong>Network Security</strong> &nbsp;·&nbsp;
+  <strong>Cyber Defense</strong> &nbsp;|&nbsp;
+  <strong>Security Operations</strong> &nbsp;|&nbsp;
   <strong>Backend Engineering</strong>
 </p>
 
-<a href="https://github.com/Sch1neider?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-1677C8?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p>
+  <a href="https://github.com/Sch1neider?tab=repositories">
+    <img src="https://img.shields.io/badge/TECHNICAL%20PROJECTS-EXPLORE-1677C8?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About
+## PROFESSIONAL PROFILE
 
-I'm a **Cybersecurity and Systems Development professional** with a technical background in software engineering, computer networks, and information security.
+Cybersecurity and Systems Development professional focused on **information security, defensive security architecture, network infrastructure, and software engineering**.
 
-My interests involve understanding complex systems, analyzing security threats, strengthening infrastructure, and engineering reliable software solutions.
+My technical interests cover the security lifecycle, from infrastructure hardening and attack-surface analysis to threat identification, vulnerability assessment, and incident investigation.
 
-I bring together two complementary areas:
+On the engineering side, I work with backend architecture, API development, database systems, application security, and modular software design.
 
-- **Cybersecurity:** defensive security, network protection, threat analysis, security operations, and ethical hacking.
-- **Software Engineering:** backend development, API architecture, database systems, and application design.
-
-I believe that understanding how software is built is essential to understanding how it can be protected.
+I approach technology from two complementary perspectives: **engineering reliable systems and understanding how to secure them**.
 
 ---
 
-## Cybersecurity
+## CYBERSECURITY
 
-My focus is on security principles, infrastructure protection, threat analysis, and practical security experimentation.
+Focused on defensive security, network protection, security assessment, and the technical foundations of Security Operations.
 
-**Areas of Knowledge**
+### Security Operations & Defensive Architecture
 
-| Defensive Security | Offensive Security |
-|:---|:---|
-| Cyber Defense | Ethical Hacking |
-| Network Defense | Penetration Testing Fundamentals |
-| Cyber Threat Management | OWASP Security Principles |
-| Endpoint Security | Web Application Vulnerabilities |
-| SOC Fundamentals | Red Team / Blue Team Concepts |
-| Threat & Vulnerability Analysis | CTF Security Challenges |
-| Incident Response Fundamentals | Security Testing Labs |
+- Security Operations Center (SOC) concepts and operational workflows
+- Security Information and Event Management (SIEM) fundamentals
+- Endpoint Detection and Response (EDR) concepts
+- Intrusion Detection and Prevention Systems (IDS/IPS)
+- Security event analysis and log correlation
+- Threat detection and incident investigation fundamentals
+- Network segmentation and access control principles
+- Endpoint protection and infrastructure hardening
+- Security monitoring and defensive controls
 
-**Security Technologies**
+### Threat & Vulnerability Management
+
+- Threat identification and attack-surface analysis
+- Vulnerability assessment and risk prioritization
+- CVE identification and CVSS-based severity assessment
+- Security misconfiguration analysis
+- Threat intelligence fundamentals
+- MITRE ATT&CK knowledge base and adversary techniques
+- Incident response lifecycle and containment concepts
+- Security assessment and remediation practices
+
+### Offensive Security & Application Assessment
+
+- Ethical Hacking and penetration testing fundamentals
+- Web application security assessment
+- OWASP Top 10 security risks
+- Authentication and authorization weaknesses
+- Input validation and injection vulnerabilities
+- Network reconnaissance and service enumeration
+- Red Team, Blue Team, and Purple Team methodologies
+- Controlled security testing environments and CTF challenges
+
+### Security Frameworks & Standards
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python" alt="Linux, Kali Linux, Bash and Python" />
+  <img src="https://img.shields.io/badge/MITRE-ATT%26CK-1C344D?style=flat-square" />
+  <img src="https://img.shields.io/badge/NIST-CYBERSECURITY%20FRAMEWORK-1C344D?style=flat-square" />
+  <img src="https://img.shields.io/badge/CIS-SECURITY%20CONTROLS-1C344D?style=flat-square" />
+  <img src="https://img.shields.io/badge/OWASP-APPLICATION%20SECURITY-1C344D?style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WIRESHARK-NETWORK%20ANALYSIS-1677C8?style=flat-square" />
-  <img src="https://img.shields.io/badge/NMAP-NETWORK%20SCANNING-1677C8?style=flat-square" />
+### Security Technologies & Tooling
+
+**Network Analysis & Reconnaissance**
+
+<p>
+  <img src="https://img.shields.io/badge/WIRESHARK-PACKET%20ANALYSIS-1677C8?style=flat-square" />
+  <img src="https://img.shields.io/badge/TCPDUMP-TRAFFIC%20CAPTURE-1677C8?style=flat-square" />
+  <img src="https://img.shields.io/badge/NMAP-SERVICE%20ENUMERATION-1677C8?style=flat-square" />
+</p>
+
+**Application Security & Penetration Testing**
+
+<p>
   <img src="https://img.shields.io/badge/BURP%20SUITE-WEB%20SECURITY-1677C8?style=flat-square" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-SECURITY%20TESTING-1677C8?style=flat-square" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-DAST-1677C8?style=flat-square" />
+  <img src="https://img.shields.io/badge/METASPLOIT-SECURITY%20ASSESSMENT-1677C8?style=flat-square" />
+  <img src="https://img.shields.io/badge/DVWA-SECURITY%20LAB-1677C8?style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WAZUH-SECURITY%20MONITORING-173D5B?style=flat-square" />
+**Monitoring & Defensive Security**
+
+<p>
+  <img src="https://img.shields.io/badge/WAZUH-SIEM%20%26%20XDR-173D5B?style=flat-square" />
   <img src="https://img.shields.io/badge/SURICATA-NETWORK%20IDS%2FIPS-173D5B?style=flat-square" />
   <img src="https://img.shields.io/badge/SNORT-INTRUSION%20DETECTION-173D5B?style=flat-square" />
-  <img src="https://img.shields.io/badge/METASPLOIT-PENETRATION%20TESTING-173D5B?style=flat-square" />
+  <img src="https://img.shields.io/badge/OPENVPN-SECURE%20NETWORKING-173D5B?style=flat-square" />
+</p>
+
+**Security Environments**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,docker" />
 </p>
 
 ---
 
-## Software Engineering
+## SOFTWARE ENGINEERING
 
-I build software with an emphasis on backend systems, modular architecture, API development, database management, and application integration.
+Focused on backend development, service architecture, API engineering, database systems, and secure application design.
 
-### Technology Stack
+### Software Architecture & Backend Engineering
 
-**Programming Languages**
+- Modular architecture and separation of concerns
+- RESTful API design and implementation
+- Request lifecycle and middleware architecture
+- Business logic encapsulation and service-layer design
+- Authentication, authorization, and role-based access control (RBAC)
+- Data validation, serialization, and error handling
+- Database transactions and data consistency
+- ORM-based persistence and schema management
+- API integration and service communication
+- Application configuration and environment management
+
+### Application Security
+
+- Secure authentication and session management
+- Role-based authorization and access policies
+- Input validation and data sanitization
+- Password hashing and credential protection
+- SQL injection prevention and secure data access
+- API security and request validation
+- Environment variables and secrets management
+- OWASP application security principles
+
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,java" />
 </p>
 
-**Frameworks & Development**
+### Frameworks & Runtime Environments
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,react,vite" />
 </p>
 
-**Databases & Data Management**
+### Databases & Data Persistence
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,prisma" />
 </p>
 
-**Infrastructure & DevOps**
+### Infrastructure & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,bash" />
 </p>
 
-**Development Workflow & Testing**
+### Testing, API Engineering & Automation
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,jest,graphql" />
 </p>
 
-### Engineering Competencies
+### Engineering Practices
 
-- Backend Architecture and Modular Systems
-- REST API Design and Integration
-- Object-Oriented Programming
-- TypeScript and Static Typing
-- Relational Database Design and ORM
-- Authentication and Authorization
-- Automated Testing and CI/CD Fundamentals
-- Application Security
+- Type-safe development with TypeScript
+- Relational data modeling and database migrations
+- API testing and integration testing
+- Automated build and deployment workflows
+- Containerization and environment isolation
+- Application logging and observability fundamentals
+- Software maintenance and technical documentation
 
 ---
 
-## Selected Projects
+## SELECTED PROJECTS
 
-### Deskora
+Projects focused on backend architecture, application development, data management, and practical engineering.
+
+### 01. Deskora
+
 **IT SERVICE MANAGEMENT PLATFORM**
 
-A modular ITSM platform designed to organize IT service operations, technical support, and service management workflows.
+A modular ITSM system designed to support IT service operations, incident workflows, and service management processes.
 
-- Ticket lifecycle and workflow management
-- SLA policies, deadlines, and pause tracking
+**Architecture & Implementation**
+
+- Ticket lifecycle management and status transitions
+- SLA policy evaluation and deadline tracking
+- SLA pause and resume mechanisms
 - Incident, problem, and change management
-- Service catalog and knowledge base
+- Service catalog and knowledge management
 - Operational metrics and audit records
+- Role-based access control and protected routes
+- Modular backend architecture and database persistence
+
+**Technology Stack**
 
 `TypeScript` `Fastify` `PostgreSQL` `Prisma` `React`
 
-<sub>Backend completed · Frontend in development</sub>
+<sub>Backend implementation completed · Frontend development in progress</sub>
 
 ---
 
-### BussinessHub
-**FINANCIAL DATA APPLICATION**
+### 02. BussinessHub
 
-A software project focused on financial market information and integration between backend services and a web interface.
+**FINANCIAL DATA & BACKEND INTEGRATION**
 
-- C++ backend development
+A software application exploring financial market information, backend services, and web-based data presentation.
+
+**Architecture & Implementation**
+
+- C++ backend application
 - HTTP API using Crow
 - Financial quote data structures
-- Frontend and backend integration
+- Backend and frontend communication
 - Application health monitoring
+- Modular service integration
+
+**Technology Stack**
 
 `C++` `Crow` `JavaScript` `HTML` `CSS`
 
 ---
 
-### React Blog
-**FRONTEND WEB APPLICATION**
+### 03. React Blog
 
-A React application focused on component architecture, navigation, and state management.
+**COMPONENT-BASED WEB APPLICATION**
 
-- Component-based architecture
+A React application focused on frontend architecture, navigation, state management, and user interface functionality.
+
+**Architecture & Implementation**
+
+- Component-based application structure
 - Client-side routing
-- Context API
-- Light and dark themes
+- Context API for shared state
+- Dynamic theme management
 - Search and content filtering
-- Telegram bot integration
+- External Telegram bot integration
+
+**Technology Stack**
 
 `React` `JavaScript` `Vite` `CSS`
 
 ---
 
-### BuscaLibras
+### 04. BuscaLibras
+
 **COLLABORATIVE WEB PLATFORM**
 
-A collaborative platform connecting individuals and organizations with Libras professionals.
+A collaborative platform designed to connect individuals and organizations with Libras professionals.
 
-- Professional profiles
-- Location and specialty search
+**Architecture & Implementation**
+
+- Professional profile management
+- Location and specialty-based search
+- User authentication and access control
 - Interest management
 - Credential validation
-- User authentication
+- Server-rendered application views
 
-`Node.js` `Express` `EJS` `MySQL` `JWT`
+**Technology Stack**
+
+`Node.js` `Express 5` `EJS` `MySQL` `JWT` `Multer`
 
 [View repository](https://github.com/danielperes1/BuscaLibras)
 
 ---
 
-## Certifications & Technical Training
+## CERTIFICATIONS & TECHNICAL TRAINING
 
-**Cybersecurity**
+### Cybersecurity
 
 - Ethical Hacker — Cisco Networking Academy / ESCOM
 - CyberOps Associate
@@ -203,7 +295,7 @@ A collaborative platform connecting individuals and organizations with Libras pr
 - Introduction to Cybersecurity
 - Defesa Cibernética
 
-**Networking & Infrastructure**
+### Networking & Infrastructure
 
 - CCNA: Introduction to Networks
 - Networking Basics
@@ -213,26 +305,19 @@ A collaborative platform connecting individuals and organizations with Libras pr
 
 ---
 
-## GitHub
+## GITHUB
 
 <div align="center">
 
 <a href="https://github.com/Sch1neider?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-1677C8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Sch1neider">
-  <img src="https://img.shields.io/badge/SCH1NEIDER-0D6EAF?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCH1NEIDER-0D1117?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-<sub>CYBERSECURITY · SOFTWARE ENGINEERING · SYSTEMS DEVELOPMENT</sub>
-
-</div>
+ 
