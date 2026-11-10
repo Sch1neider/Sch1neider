@@ -5,336 +5,190 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/IDENTITY-CYBERSECURITY%20%26%20SOFTWARE-0D1117?style=for-the-badge&labelColor=0D1117&color=1677C8" />
-<img src="https://img.shields.io/badge/FOCUS-CYBER%20DEFENSE-0D1117?style=for-the-badge&labelColor=0D1117&color=164E80" />
+<h3>CYBERSECURITY PROFESSIONAL & SOFTWARE DEVELOPER</h3>
 
-<br/><br/>
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-CYBER%20DEFENSE-0D6EAF?style=flat-square" />
+  <img src="https://img.shields.io/badge/SECURITY-NETWORK%20DEFENSE-172A45?style=flat-square" />
+  <img src="https://img.shields.io/badge/DEVELOPMENT-BACKEND-172A45?style=flat-square" />
+</p>
 
-<a href="https://github.com/Sch1neider">
-  <img src="https://komarev.com/ghpvc/?username=Sch1neider&style=for-the-badge&color=1677C8&label=PROFILE+VIEWS" />
-</a>
-
-<a href="https://github.com/Sch1neider?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" />
-</a>
-
-<br/><br/>
-
-<code>CYBER DEFENSE</code> &nbsp; <code>SECURITY OPERATIONS</code> &nbsp; <code>SOFTWARE ENGINEERING</code>
+<p>
+  <a href="https://github.com/Sch1neider">
+    <img src="https://komarev.com/ghpvc/?username=Sch1neider&style=flat-square&color=1677C8&label=PROFILE+VIEWS" />
+  </a>
+</p>
 
 </div>
 
-<br/>
+---
+
+## 01 / PROFILE
+
+I'm a **Cybersecurity and Systems Development professional** with a technical background in software engineering, network infrastructure, and information security.
+
+My interests are centered around understanding how systems operate, identifying security weaknesses, analyzing threats, and developing reliable technological solutions.
+
+My background combines **Cyber Defense, Network Security, Ethical Hacking, and Software Development**, allowing me to approach technology from both a defensive security perspective and an engineering perspective.
+
+I continuously develop my knowledge through practical projects, technical studies, and hands-on experimentation.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" />
-
-</div>
-
-<h2 align="center">01 &nbsp; / &nbsp; PROFESSIONAL PROFILE</h2>
-
-<div align="center">
-
-### Sch1neider
-
-**Cybersecurity Professional | Systems Developer**
-
-*Understanding threats. Securing infrastructure. Engineering software.*
-
-</div>
-
-I'm a Cybersecurity and Systems Development professional with a technical background in software engineering, network infrastructure, and information security.
-
-My technical interests focus on understanding system architecture, identifying security weaknesses, analyzing threats, and developing reliable technological solutions.
-
-My background combines **Cyber Defense, Network Security, Ethical Hacking, Security Operations, and Software Development**. This combination allows me to approach technology from both an infrastructure protection perspective and a software engineering perspective.
-
-I value practical learning, technical problem-solving, secure development practices, and continuous improvement through hands-on projects.
-
-<div align="center">
-
-| <img src="https://img.shields.io/badge/01-CYBERSECURITY-0D1117?style=for-the-badge&labelColor=0D1117&color=1677C8" /> | <img src="https://img.shields.io/badge/02-ENGINEERING-0D1117?style=for-the-badge&labelColor=0D1117&color=164E80" /> | <img src="https://img.shields.io/badge/03-INFRASTRUCTURE-0D1117?style=for-the-badge&labelColor=0D1117&color=12365A" /> |
+| CYBERSECURITY | SOFTWARE ENGINEERING | INFRASTRUCTURE |
 |:---:|:---:|:---:|
-| Threat Analysis | Backend Architecture | Computer Networks |
-| Cyber Defense | API Development | Network Security |
-| Security Operations | Database Engineering | Linux Environments |
-| Ethical Hacking | Application Development | Infrastructure Fundamentals |
+| Threat Analysis | Backend Development | Computer Networks |
+| Cyber Defense | API Architecture | Network Security |
+| Security Operations | Database Design | Linux Environments |
+| Ethical Hacking | System Development | Infrastructure Fundamentals |
 
 </div>
 
-<br/>
+---
 
-<h2 align="center">02 &nbsp; / &nbsp; CYBERSECURITY OPERATIONS</h2>
+## 02 / CYBERSECURITY
 
-<div align="center">
+My primary professional focus is cybersecurity, particularly defensive security, network protection, and security operations.
 
-<img src="https://img.shields.io/badge/SECURITY_DOMAIN-DEFENSIVE%20%26%20OFFENSIVE-0D1117?style=for-the-badge&logo=protonvpn&logoColor=58A6FF" />
+### Defensive Security
 
-</div>
-
-My primary professional focus is cybersecurity, especially defensive security, network protection, threat analysis, and security operations.
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### <img src="https://img.shields.io/badge/DEFENSIVE_SECURITY-1677C8?style=flat-square&logo=shield&logoColor=white" />
-
-</div>
-
-**Cyber Defense**
-
-- Cyber Defense
-- Network Defense
+- Cyber Defense and Network Defense
 - Cyber Threat Management
 - Endpoint Security
-- SOC fundamentals
+- Security Operations Center (SOC) fundamentals
 - Threat and vulnerability analysis
-- Security monitoring concepts
-- Incident response fundamentals
-- Network protection
+- Network monitoring and security concepts
+- Security incident awareness and response fundamentals
 
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### <img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-164E80?style=flat-square&logo=kalilinux&logoColor=white" />
-
-</div>
-
-**Ethical Hacking**
+### Offensive Security
 
 - Ethical Hacking
 - Penetration Testing fundamentals
-- Red Team concepts
-- Blue Team concepts
-- Purple Team concepts
+- Red Team, Blue Team, and Purple Team concepts
 - OWASP security principles
-- DVWA testing environments
-- CTF challenges
-- Web application vulnerabilities
+- DVWA security testing environments
+- Capture The Flag (CTF) challenges
+- Common web application vulnerabilities
 
-</td>
-</tr>
-</table>
-
-### Security Toolkit
+### Security & Infrastructure Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OWASP-WEB%20APPLICATION%20SECURITY-0D1117?style=for-the-badge&logo=owasp&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenVPN-NETWORK%20SECURITY-0D1117?style=for-the-badge&logo=openvpn&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/DVWA-SECURITY%20LAB-0D1117?style=for-the-badge&color=164E80" />
-<img src="https://img.shields.io/badge/CTF-PRACTICAL%20CHALLENGES-0D1117?style=for-the-badge&color=164E80" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker" />
 
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/OWASP-Security%20Testing-173D5B?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenVPN-Network%20Security-173D5B?style=flat-square" />
+  <img src="https://img.shields.io/badge/DVWA-Web%20Security-173D5B?style=flat-square" />
+</p>
 
-<h2 align="center">03 &nbsp; / &nbsp; SOFTWARE ENGINEERING</h2>
+---
 
-<div align="center">
+## 03 / SOFTWARE ENGINEERING
 
-<img src="https://img.shields.io/badge/ENGINEERING-BACKEND%20%7C%20APIs%20%7C%20DATABASES-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" />
+Alongside cybersecurity, I develop software systems with an emphasis on backend engineering, application architecture, APIs, and database management.
 
-<br/><br/>
+My development experience includes building structured applications, implementing business rules, integrating services, and designing backend components.
 
-**Building structured applications and reliable backend systems.**
-
-</div>
-
-My software development background complements my cybersecurity knowledge through the design and implementation of structured applications, business rules, APIs, and database-driven systems.
-
-### Programming Languages
+### Languages & Technologies
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,java" />
 
-<br/>
-
-<sub>TypeScript · JavaScript · Python · C++ · Java</sub>
-
-</div>
-
-### Frameworks & Runtime
-
-<div align="center">
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,react,vite" />
 
-<br/>
-
-<sub>Node.js · Express · Fastify · React · Vite</sub>
-
-</div>
-
-### Databases & Data Management
-
-<div align="center">
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma" />
 
-<br/>
-
-<sub>PostgreSQL · MySQL · SQLite · Prisma ORM</sub>
-
-</div>
-
-### Development Environment
-
-<div align="center">
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode" />
 
 </div>
 
-### Engineering Capabilities
+### Engineering Areas
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**BACKEND DEVELOPMENT**
-
-- REST API architecture
-- Modular application design
-- Business logic implementation
-- Authentication and authorization
+- REST API development and integration
+- Backend architecture and modular systems
+- Object-oriented programming
 - TypeScript and static typing
-- Service-oriented architecture
-
-</td>
-<td width="50%" valign="top">
-
-**DATA & APPLICATIONS**
-
 - Relational database modeling
 - ORM and data persistence
-- SQL fundamentals
-- Application integration
-- Frontend development
-- Secure development principles
+- Authentication and authorization
+- Application security fundamentals
+- Frontend development with React
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+## 04 / SELECTED PROJECTS
 
-<h2 align="center">04 &nbsp; / &nbsp; FEATURED PROJECTS</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PORTFOLIO-SELECTED%20ENGINEERING%20PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-
-<br/><br/>
-
-*Practical applications, system architecture, and collaborative development.*
-
-</div>
+A selection of projects demonstrating my interests in software engineering, backend architecture, and practical technology development.
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3>01. Deskora</h3>
 
-<img src="https://img.shields.io/badge/01-ITSM%20PLATFORM-0D1117?style=for-the-badge&color=1677C8" />
+<strong>IT SERVICE MANAGEMENT PLATFORM</strong>
 
-### Deskora
+A modular ITSM platform designed to manage service operations, technical support workflows, and organizational processes.
 
-**IT SERVICE MANAGEMENT**
+<strong>Key Components</strong>
 
-</div>
-
-A modular ITSM platform designed to organize technical support operations, service workflows, and IT service management processes.
-
-**CORE MODULES**
-
-- Ticket management
-- SLA policies and tracking
-- Incident management
-- Problem management
+- Ticket management and workflows
+- SLA policies and deadline tracking
+- Incident and problem management
 - Change management
 - Service catalog
 - Knowledge base
 - Metrics and audit records
 
-**TECHNOLOGY STACK**
+<strong>Technology</strong>
 
-<img src="https://skillicons.dev/icons?i=typescript,fastify,postgres,prisma,react" />
+TypeScript · Fastify · PostgreSQL · Prisma · React
 
-<sub>TypeScript · Fastify · PostgreSQL · Prisma · React</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/BACKEND-COMPLETED-1677C8?style=flat-square" />
-<img src="https://img.shields.io/badge/FRONTEND-IN%20DEVELOPMENT-164E80?style=flat-square" />
+<p><strong>Status:</strong> Backend completed · Frontend in development</p>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3>02. BussinessHub</h3>
 
-<img src="https://img.shields.io/badge/02-FINANCIAL%20APPLICATION-0D1117?style=for-the-badge&color=1677C8" />
-
-### BussinessHub
-
-**FINANCIAL DATA APPLICATION**
-
-</div>
+<strong>FINANCIAL DATA APPLICATION</strong>
 
 A software project focused on financial market information and the integration of backend services with a web interface.
 
-**CORE COMPONENTS**
+<strong>Key Components</strong>
 
 - C++ backend development
-- HTTP API using Crow
+- HTTP API with Crow
 - Financial quote data structures
-- Backend and frontend integration
+- Frontend and backend integration
 - Application health monitoring
-- Data presentation interface
 
-**TECHNOLOGY STACK**
+<strong>Technology</strong>
 
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
-
-<sub>C++ · Crow · JavaScript · HTML · CSS</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PROJECT-C%2B%2B%20BACKEND-164E80?style=flat-square" />
+C++ · Crow · JavaScript · HTML · CSS
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3>03. React Blog</h3>
 
-<img src="https://img.shields.io/badge/03-FRONTEND%20APPLICATION-0D1117?style=for-the-badge&color=1677C8" />
+<strong>WEB APPLICATION</strong>
 
-### React Blog
+A frontend project focused on component-based development, application navigation, and state management.
 
-**WEB APPLICATION**
-
-</div>
-
-A frontend application developed to explore component-based architecture, state management, routing, and user interface functionality.
-
-**CORE COMPONENTS**
+<strong>Key Components</strong>
 
 - Component-based architecture
 - Application routing
@@ -343,28 +197,20 @@ A frontend application developed to explore component-based architecture, state 
 - Search and content filtering
 - Telegram bot integration
 
-**TECHNOLOGY STACK**
+<strong>Technology</strong>
 
-<img src="https://skillicons.dev/icons?i=react,js,vite,css" />
-
-<sub>React · JavaScript · Vite · CSS</sub>
+React · JavaScript · Vite · CSS
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3>04. BuscaLibras</h3>
 
-<img src="https://img.shields.io/badge/04-COLLABORATIVE%20PROJECT-0D1117?style=for-the-badge&color=1677C8" />
+<strong>COLLABORATIVE WEB PLATFORM</strong>
 
-### BuscaLibras
+A collaborative project connecting people and organizations with Libras professionals through a dedicated web platform.
 
-**ACCESSIBILITY WEB PLATFORM**
-
-</div>
-
-A collaborative platform connecting people and organizations with Libras professionals through a dedicated web application.
-
-**CORE COMPONENTS**
+<strong>Key Components</strong>
 
 - Professional profiles
 - Location and specialty search
@@ -372,17 +218,11 @@ A collaborative platform connecting people and organizations with Libras profess
 - Credential validation
 - User authentication
 
-**TECHNOLOGY STACK**
+<strong>Technology</strong>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,js" />
+Node.js · Express · EJS · MySQL · JWT
 
-<sub>Node.js · Express · EJS · MySQL · JWT</sub>
-
-<br/><br/>
-
-<a href="https://github.com/danielperes1/BuscaLibras">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" />
-</a>
+<p><a href="https://github.com/danielperes1/BuscaLibras">View repository →</a></p>
 
 </td>
 </tr>
@@ -391,115 +231,71 @@ A collaborative platform connecting people and organizations with Libras profess
 <div align="center">
 
 <a href="https://github.com/Sch1neider?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-1677C8?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-1677C8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<br/>
+---
 
-<h2 align="center">05 &nbsp; / &nbsp; CERTIFICATIONS & TRAINING</h2>
+## 05 / CERTIFICATIONS & TECHNICAL TRAINING
+
+My technical background includes training in cybersecurity, computer networks, ethical hacking, and systems development.
+
+| Area | Training / Certification |
+|:---|:---|
+| Cybersecurity | Ethical Hacker — Cisco Networking Academy / ESCOM |
+| Security Operations | CyberOps Associate |
+| Defensive Security | Network Defense |
+| Threat Intelligence | Cyber Threat Management |
+| Endpoint Protection | Endpoint Security |
+| Cyber Defense | Defesa Cibernética |
+| Cybersecurity | Introduction to Cybersecurity |
+| Higher Education Extension | Cybersecurity — University of São Paulo (USP) |
+| Networking | CCNA: Introduction to Networks |
+| Networking | Networking Basics |
+| Infrastructure | Network Support and Security |
+| Infrastructure | Network Technician Career Path |
+| Operating Systems | Linux Unhatched |
+
+---
+
+## 06 / GITHUB ACTIVITY
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/TECHNICAL%20BACKGROUND-CYBERSECURITY%20%26%20NETWORKING-0D1117?style=for-the-badge&logo=credly&logoColor=58A6FF" />
-
-</div>
-
-My technical training includes cybersecurity, computer networks, ethical hacking, cyber defense, and systems development.
-
-<details>
-<summary><strong>⌁ Cybersecurity & Security Operations</strong></summary>
-
-<br/>
-
-| Training / Certification | Institution / Area |
-|:---|:---|
-| Ethical Hacker | Cisco Networking Academy / ESCOM |
-| CyberOps Associate | Cisco Networking Academy |
-| Network Defense | Cisco Networking Academy |
-| Cyber Threat Management | Cisco Networking Academy |
-| Endpoint Security | Cisco Networking Academy |
-| Introduction to Cybersecurity | Cisco Networking Academy |
-| Cyber Defense | Specialized technical training |
-| Cybersecurity | University of São Paulo (USP) — Extension Course |
-
-</details>
-
-<details>
-<summary><strong>⌁ Networking & Infrastructure</strong></summary>
-
-<br/>
-
-| Training / Certification | Area |
-|:---|:---|
-| CCNA: Introduction to Networks | Computer Networking |
-| Networking Basics | Network Fundamentals |
-| Network Support and Security | Infrastructure |
-| Network Technician Career Path | Networking |
-| Linux Unhatched | Linux Fundamentals |
-
-</details>
-
-<details>
-<summary><strong>⌁ Systems Development</strong></summary>
-
-<br/>
-
-**Technical Education — Systems Development**
-
-Software development, programming, application construction, and systems engineering.
-
-</details>
-
-<br/>
-
-<h2 align="center">06 &nbsp; / &nbsp; GITHUB ANALYTICS</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GITHUB-REPOSITORY%20ACTIVITY-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-
-<br/><br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sch1neider&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sch1neider&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
-<br/><br/>
+<br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=Sch1neider&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
 
-<br/><br/>
+<br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sch1neider&bg_color=0D1117&color=C9D1D9&line=1677C8&point=58A6FF&area=true&hide_border=true" />
 
 </div>
 
-<br/>
+---
 
-<h2 align="center">07 &nbsp; / &nbsp; CONNECT</h2>
+## 07 / CONTACT
 
 <div align="center">
 
-### Let's connect.
-
-Interested in cybersecurity, cyber defense, secure software development, and technology.
-
-<br/>
+<p>
+  <strong>Interested in cybersecurity, secure software development, and technology.</strong>
+</p>
 
 <a href="https://github.com/Sch1neider">
-  <img src="https://img.shields.io/badge/GITHUB-SCH1NEIDER-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/GitHub-Sch1neider-161B22?style=for-the-badge&logo=github" />
 </a>
 
-<!-- Add your LinkedIn and professional email links when ready. -->
+<!-- Add your LinkedIn and professional email links here when ready. -->
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SECURITY-ENGINEERING-DEVELOPMENT-0D1117?style=flat-square&color=1677C8" />
-
-<br/><br/>
-
-<sub>DESIGNED & DEVELOPED BY SCH1NEIDER</sub>
+<sub>SECURITY · ENGINEERING · CONTINUOUS DEVELOPMENT</sub>
 
 </div>
