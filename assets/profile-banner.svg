@@ -1,0 +1,64 @@
+
+<svg width="1440" height="320" viewBox="0 0 1440 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1440" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030811"></stop>
+      <stop offset="0.55" stop-color="#07172A"></stop>
+      <stop offset="1" stop-color="#020812"></stop>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7DD3FC"></stop>
+      <stop offset="0.5" stop-color="#168BDE"></stop>
+      <stop offset="1" stop-color="#0753A5"></stop>
+    </linearGradient>
+    <linearGradient id="text" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#FFFFFF"></stop>
+      <stop offset="1" stop-color="#18B6FF"></stop>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1080 100) rotate(90) scale(240 420)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0877C9" stop-opacity=".35"></stop>
+      <stop offset="1" stop-color="#0877C9" stop-opacity="0"></stop>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#168BDE" stroke-opacity=".13" stroke-width="1"></path>
+    </pattern>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"></feGaussianBlur>
+    </filter>
+  </defs>
+
+  <rect width="1440" height="320" fill="url(#background)"></rect>
+  <rect width="1440" height="320" fill="url(#grid)"></rect>
+  <rect width="1440" height="320" fill="url(#glow)"></rect>
+
+  <circle cx="1120" cy="70" r="230" stroke="#168BDE" stroke-opacity=".18" stroke-width="1"></circle>
+  <circle cx="1120" cy="70" r="190" stroke="#168BDE" stroke-opacity=".12" stroke-width="1"></circle>
+  <circle cx="1120" cy="70" r="150" stroke="#168BDE" stroke-opacity=".1" stroke-width="1"></circle>
+
+  <path d="M0 255L150 190L260 230L400 155L510 225L640 170L760 245L900 175L1030 230L1160 140L1300 205L1440 125" stroke="#0877C9" stroke-opacity=".42" stroke-width="2"></path>
+  <path d="M0 280L170 225L300 260L430 195L560 265L700 205L840 275L980 215L1120 270L1260 190L1440 230" stroke="#18B6FF" stroke-opacity=".3" stroke-width="1.5"></path>
+
+  <path d="M0 300H1440" stroke="#168BDE" stroke-opacity=".55"></path>
+  <path d="M0 300H1440" stroke="#168BDE" stroke-opacity=".3" stroke-width="5" filter="url(#shadow)"></path>
+
+  <g transform="translate(115 55)">
+    <path d="M105 0L190 42V85L139 111L190 137V180L105 222L20 180V137L71 111L20 85V42L105 0Z" fill="#061A2C" stroke="#168BDE" stroke-width="2"></path>
+    <path d="M105 12L177 48V76L105 112L48 83V52L105 23L147 44L105 65L81 53L48 70L105 98L164 69V55L105 26Z" fill="url(#blue)"></path>
+    <path d="M105 123L177 151V174L105 210L48 181V153L105 181L147 160L105 140L81 152L48 135L105 107L164 136V151L105 181Z" fill="url(#blue)"></path>
+    <path d="M105 0L190 42L147 65L105 44L62 65L20 42L105 0Z" fill="#B6E7FF" fill-opacity=".45"></path>
+    <path d="M20 137L62 157L105 180L105 222L20 180V137Z" fill="#0877C9" fill-opacity=".7"></path>
+  </g>
+
+  <path d="M370 54V266" stroke="#18B6FF" stroke-opacity=".75" stroke-width="2"></path>
+
+  <text x="425" y="151" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3" fill="url(#text)">Sch1neider</text>
+  <text x="430" y="205" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" letter-spacing="10" fill="#C7D9ED">SOFTWARE DEVELOPER</text>
+
+  <circle cx="1320" cy="72" r="3" fill="#18B6FF"></circle>
+  <circle cx="1360" cy="112" r="2" fill="#18B6FF"></circle>
+  <circle cx="1270" cy="175" r="2" fill="#18B6FF"></circle>
+  <circle cx="1040" cy="220" r="3" fill="#18B6FF"></circle>
+  <circle cx="930" cy="80" r="2" fill="#18B6FF"></circle>
+  <circle cx="720" cy="270" r="2" fill="#18B6FF"></circle>
+  <circle cx="620" cy="45" r="2" fill="#18B6FF"></circle>
+</svg>
