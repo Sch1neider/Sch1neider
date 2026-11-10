@@ -148,31 +148,35 @@ Focused on backend development, service architecture, API engineering, database 
 
 ### Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,java" />
 </p>
 
 ### Frameworks & Runtime Environments
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,react,vite" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,vite" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FASTIFY-High%20Performance%20HTTP%20Framework-202020?style=flat-square&logo=fastify&logoColor=white" />
 </p>
 
 ### Databases & Data Persistence
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,prisma" />
 </p>
 
 ### Infrastructure & DevOps
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,bash" />
 </p>
 
 ### Testing, API Engineering & Automation
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,jest,graphql" />
 </p>
 
@@ -320,4 +324,3 @@ A collaborative platform designed to connect individuals and organizations with 
 </a>
 
 </div>
- 
