@@ -8,8 +8,8 @@
 <h3>CYBERSECURITY PROFESSIONAL & SOFTWARE DEVELOPER</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/CYBERSECURITY-DEFENSIVE%20SECURITY-0D6EAF?style=flat-square" />
-  <img src="https://img.shields.io/badge/ENGINEERING-BACKEND%20DEVELOPMENT-172A45?style=flat-square" />
+  <img src="https://img.shields.io/badge/FOCUS-CYBER%20DEFENSE-0D6EAF?style=flat-square" />
+  <img src="https://img.shields.io/badge/ENGINEERING-SOFTWARE%20DEVELOPMENT-172A45?style=flat-square" />
 </p>
 
 <p>
@@ -30,36 +30,57 @@ My focus is on understanding how systems operate, identifying security weaknesse
 
 I combine knowledge of **Cyber Defense, Network Security, Ethical Hacking, and Backend Development**, approaching technology through both security and engineering perspectives.
 
-I strengthen my technical capabilities through hands-on projects, practical experimentation, and continuous professional development.
+I continuously strengthen my technical capabilities through practical projects, security labs, technical studies, and hands-on experimentation.
 
 ---
 
 ## 02 / CYBERSECURITY
 
-My primary area of interest is cybersecurity, with an emphasis on defensive security, network protection, threat analysis, and security operations.
+My primary area of interest is cybersecurity, particularly defensive security, network protection, threat analysis, and security operations.
 
-**Security Knowledge**
+### Security Knowledge
 
 - Cyber Defense and Network Defense
 - Cyber Threat Management and Vulnerability Analysis
-- Endpoint Security and SOC Fundamentals
-- Security Monitoring and Incident Response Fundamentals
+- Endpoint Security and Security Operations (SOC)
+- Threat Detection, Monitoring, and Incident Response Fundamentals
 - Ethical Hacking and Penetration Testing Fundamentals
 - OWASP Security Principles and Web Application Vulnerabilities
 - Red Team, Blue Team, and Purple Team Concepts
+- Network Traffic Analysis and Security Assessment
 - Capture The Flag (CTF) Challenges and Security Labs
 
-**Tools & Environments**
+### Security Technologies & Tools
+
+**Operating Systems & Scripting**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,docker" />
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,python" />
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/OWASP-SECURITY%20TESTING-173D5B?style=flat-square" />
-<img src="https://img.shields.io/badge/DVWA-WEB%20SECURITY-173D5B?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenVPN-NETWORK%20SECURITY-173D5B?style=flat-square" />
+**Network Analysis & Security Testing**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1677C8?style=flat-square" />
+<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-1677C8?style=flat-square" />
+<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-1677C8?style=flat-square" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-Security%20Testing-1677C8?style=flat-square" />
+<img src="https://img.shields.io/badge/Metasploit-Penetration%20Testing-1677C8?style=flat-square" />
+
+</div>
+
+**Network Defense & Security Monitoring**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Suricata-Network%20IDS%2FIPS-173D5B?style=flat-square" />
+<img src="https://img.shields.io/badge/Snort-Intrusion%20Detection-173D5B?style=flat-square" />
+<img src="https://img.shields.io/badge/Wazuh-Security%20Monitoring-173D5B?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenVPN-Secure%20Networking-173D5B?style=flat-square" />
+<img src="https://img.shields.io/badge/DVWA-Web%20Security%20Lab-173D5B?style=flat-square" />
 
 </div>
 
@@ -69,9 +90,9 @@ My primary area of interest is cybersecurity, with an emphasis on defensive secu
 
 I develop software systems with an emphasis on backend engineering, application architecture, API development, and database management.
 
-My engineering experience includes designing modular applications, implementing business logic, managing data persistence, and integrating backend services with user interfaces.
+My engineering work involves designing modular applications, implementing business logic, managing data persistence, and integrating backend services with user interfaces.
 
-**Languages**
+### Languages
 
 <div align="center">
 
@@ -79,7 +100,7 @@ My engineering experience includes designing modular applications, implementing 
 
 </div>
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 
 <div align="center">
 
@@ -87,28 +108,47 @@ My engineering experience includes designing modular applications, implementing 
 
 </div>
 
-**Databases & Development Tools**
+### Databases & Data Management
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,prisma" />
 
 </div>
 
-**Engineering Competencies**
+### Infrastructure & DevOps
 
-- REST API design and integration
-- Backend architecture and modular application design
-- Object-oriented programming and TypeScript
-- Relational database modeling and ORM
-- Authentication, authorization, and application security
-- Frontend development with React
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,nginx,aws" />
+
+</div>
+
+### Development Workflow & Quality
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,jest,graphql" />
+
+</div>
+
+### Engineering Competencies
+
+- REST API Design and Integration
+- Backend Architecture and Modular Systems
+- Object-Oriented Programming
+- TypeScript and Static Typing
+- Relational Database Modeling and ORM
+- Authentication and Authorization
+- Application Security Fundamentals
+- Frontend Development with React
+- Automated Testing and Development Workflows
 
 ---
 
 ## 04 / SELECTED PROJECTS
 
-Projects developed to apply software engineering concepts, explore system architecture, and solve practical technological problems.
+Projects demonstrating practical applications of software engineering, backend architecture, and technology development.
 
 <table width="100%">
 <tr>
@@ -128,7 +168,7 @@ A modular ITSM platform designed to organize IT service operations and technical
 - Service catalog and knowledge base
 - Operational metrics and audit records
 
-**Stack**
+**Technology Stack**
 
 TypeScript · Fastify · PostgreSQL · Prisma · React
 
@@ -151,7 +191,7 @@ A software project focused on financial market information and communication bet
 - Frontend and backend integration
 - Application health monitoring
 
-**Stack**
+**Technology Stack**
 
 C++ · Crow · JavaScript · HTML · CSS
 
@@ -174,7 +214,7 @@ A frontend application focused on component architecture, navigation, and state 
 - Content search and filtering
 - Telegram bot integration
 
-**Stack**
+**Technology Stack**
 
 React · JavaScript · Vite · CSS
 
@@ -195,7 +235,7 @@ A collaborative platform connecting individuals and organizations with Libras pr
 - Credential validation
 - User authentication
 
-**Stack**
+**Technology Stack**
 
 Node.js · Express · EJS · MySQL · JWT
 
@@ -217,9 +257,10 @@ Node.js · Express · EJS · MySQL · JWT
 
 ## 05 / CERTIFICATIONS & TECHNICAL TRAINING
 
-My training includes cybersecurity, ethical hacking, computer networks, infrastructure, and systems development.
+My technical training includes cybersecurity, ethical hacking, computer networks, infrastructure, and systems development.
 
-**Cybersecurity**
+### Cybersecurity
+
 - Ethical Hacker — Cisco Networking Academy / ESCOM
 - CyberOps Associate
 - Network Defense
@@ -229,7 +270,8 @@ My training includes cybersecurity, ethical hacking, computer networks, infrastr
 - Introduction to Cybersecurity
 - Defesa Cibernética
 
-**Networking & Infrastructure**
+### Networking & Infrastructure
+
 - CCNA: Introduction to Networks
 - Networking Basics
 - Network Support and Security
