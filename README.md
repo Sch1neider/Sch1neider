@@ -1,61 +1,127 @@
 
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Sch1neider — Software Developer" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Sch1neider — Cybersecurity & Software Development" />
+
+  <br/>
+
+  <h2>CYBERSECURITY & SOFTWARE DEVELOPMENT</h2>
+
+  <p>
+    <strong>Cyber Defense</strong> &nbsp;·&nbsp;
+    <strong>Security Operations</strong> &nbsp;·&nbsp;
+    <strong>Backend Engineering</strong>
+  </p>
+
+  <a href="https://github.com/Sch1neider?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Work-0877C9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <br/><br/>
 </div>
 
-<br/>
+---
+
+## ABOUT ME
+
+I'm a Cybersecurity and Systems Development professional with technical training in cyber defense, ethical hacking, network security, and software development.
+
+My cybersecurity background includes training in **Ethical Hacking at ESCOM**, alongside Cisco Networking Academy cybersecurity programs and specialized studies in cyber defense and security operations.
+
+I have developed knowledge across defensive security, threat analysis, vulnerability assessment, endpoint protection, and security monitoring. I am also interested in understanding how software architecture and secure development practices contribute to stronger systems.
+
+My technical interests include:
+
+- Cyber Defense and Security Operations
+- Network Security and Infrastructure
+- Threat and Vulnerability Analysis
+- Ethical Hacking and Penetration Testing Fundamentals
+- Endpoint Security and Network Defense
+- Secure Software Development
+- Backend Architecture and API Security
+
+---
+
+## CYBERSECURITY EXPERTISE
 
 <table>
 <tr>
-<td width="53%" valign="top">
+<td width="50%" valign="top">
 
-## ABOUT
+### DEFENSIVE SECURITY
 
-Desenvolvedor de Sistemas com foco em desenvolvimento de software, arquitetura de soluções e infraestrutura.
-
-Meu objetivo é construir sistemas robustos, eficientes e escaláveis, aplicando boas práticas de desenvolvimento e buscando evolução contínua na área de tecnologia.
-
-<br/>
-
-| Área | Competência |
-|:---|:---|
-| <img src="https://img.shields.io/badge/-%3C%2F%3E-080D18?style=flat-square" /> | Desenvolvimento de Software |
-| <img src="https://img.shields.io/badge/-%E2%9B%A8-080D18?style=flat-square" /> | Redes e Segurança |
-| <img src="https://img.shields.io/badge/-%E2%96%A6-080D18?style=flat-square" /> | Arquitetura de Sistemas |
-| <img src="https://img.shields.io/badge/-%E2%9A%99-080D18?style=flat-square" /> | Automação e Infraestrutura |
+- Cyber Defense
+- Security Operations Center (SOC) fundamentals
+- Network Defense
+- Endpoint Security
+- Cyber Threat Management
+- Threat and Vulnerability Analysis
+- Security Monitoring concepts
 
 </td>
-<td width="47%" valign="top">
+<td width="50%" valign="top">
 
-## TECHNOLOGIES
+### OFFENSIVE SECURITY
 
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,python,java&theme=dark" height="43" />
-
-**FRAMEWORKS & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,vite,express&theme=dark" height="43" />
-
-<img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logo=fastify&logoColor=white" />
-<img src="https://img.shields.io/badge/Crow-111827?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/EJS-111827?style=flat-square" />
-
-**DATABASE & ORM**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" height="43" />
-
-<img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white" />
-
-**DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="43" />
+- Ethical Hacking
+- Penetration Testing Fundamentals
+- Red Team concepts
+- Blue Team concepts
+- Purple Team concepts
+- OWASP security principles
+- DVWA practical exercises
+- CTF challenges
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+## CERTIFICATIONS & TRAINING
+
+| Certification / Training | Institution |
+|:---|:---|
+| Ethical Hacker | Cisco Networking Academy / ESCOM |
+| CyberOps Associate | Cisco Networking Academy |
+| Network Defense | Cisco Networking Academy |
+| Cyber Threat Management | Cisco Networking Academy |
+| Endpoint Security | Cisco Networking Academy |
+| Introduction to Cybersecurity | Cisco Networking Academy |
+| Defesa Cibernética | Specialized training |
+| University Extension Course in Cybersecurity | University of São Paulo (USP) |
+| CCNA: Introduction to Networks | Cisco Networking Academy |
+| Networking Basics | Cisco Networking Academy |
+| Network Support and Security | Cisco Networking Academy |
+| Network Technician Career Path | Cisco Networking Academy |
+| Linux Unhatched | Cisco Networking Academy |
+
+---
+
+## TECHNOLOGY STACK
+
+### PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,python,java&theme=dark" />
+
+### BACKEND & WEB DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,express,vite&theme=dark" />
+
+<img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/Crow-111827?style=flat-square&logo=cplusplus&logoColor=white" />
+
+### DATABASES & ORM
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma&theme=dark" />
+
+### SECURITY & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" />
+
+<img src="https://img.shields.io/badge/OpenVPN-111827?style=flat-square&logo=openvpn&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP-111827?style=flat-square&logo=owasp&logoColor=white" />
+
+---
 
 ## FEATURED PROJECTS
 
@@ -63,41 +129,38 @@ Meu objetivo é construir sistemas robustos, eficientes e escaláveis, aplicando
 <tr>
 <td width="50%" valign="top">
 
-<h3>01 · Deskora</h3>
+### 01 / DESKORA
 
-**ITSM Platform**
+**IT Service Management Platform**
 
-Plataforma de gerenciamento de serviços de TI, com gerenciamento de tickets, SLA, incidentes, problemas e arquitetura modular.
+A modular ITSM platform designed to manage IT service operations, including ticket workflows, SLA tracking, incidents, problems, and service management processes.
 
-<br/>
+**Core technologies**
 
 <img src="https://img.shields.io/badge/TypeScript-0877C9?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logo=fastify&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
 
-<br/><br/>
-
-<a href="https://github.com/Sch1neider?tab=repositories">↗ Ver repositório</a>
+[Explore repositories ↗](https://github.com/Sch1neider?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>02 · BussinessHub</h3>
+### 02 / BUSSINESSHUB
 
 **Financial Data Platform**
 
-Projeto voltado à consulta e apresentação de informações financeiras, com desenvolvimento de API em C++ e integração entre backend e interface web.
+A software project focused on retrieving and presenting financial market information through a C++ backend API and a web interface.
 
-<br/>
+**Core technologies**
 
 <img src="https://img.shields.io/badge/C++-0877C9?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Crow-111827?style=flat-square" />
 <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 
-<br/><br/>
-
-<a href="https://github.com/Sch1neider?tab=repositories">↗ Ver repositório</a>
+[Explore repositories ↗](https://github.com/Sch1neider?tab=repositories)
 
 </td>
 </tr>
@@ -105,49 +168,45 @@ Projeto voltado à consulta e apresentação de informações financeiras, com d
 <tr>
 <td width="50%" valign="top">
 
-<h3>03 · React Blog</h3>
+### 03 / REACT BLOG
 
 **Web Application**
 
-Aplicação web com navegação entre páginas, gerenciamento de estado, temas claro e escuro e componentes reutilizáveis.
+A React-based web application featuring multi-page navigation, contextual state management, light and dark themes, and reusable interface components.
 
-<br/>
+**Core technologies**
 
 <img src="https://img.shields.io/badge/React-0877C9?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=white" />
 
-<br/><br/>
-
-<a href="https://github.com/Sch1neider?tab=repositories">↗ Ver repositório</a>
+[Explore repositories ↗](https://github.com/Sch1neider?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>04 · BuscaLibras</h3>
+### 04 / BUSCALIBRAS
 
 **Accessibility Platform**
 
-Plataforma colaborativa que conecta pessoas e empresas a profissionais de Libras. Oferece busca por localização e especialidade, gerenciamento de interesses e validação de certificados.
+A collaborative web platform connecting individuals and organizations with Brazilian Sign Language (Libras) professionals. Features include location-based search, professional profiles, interest management, and credential validation.
 
-<br/>
+**Core technologies**
 
 <img src="https://img.shields.io/badge/Node.js-0877C9?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/EJS-111827?style=flat-square" />
 <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white" />
 
-<br/><br/>
-
-<a href="https://github.com/danielperes1/BuscaLibras">↗ Ver repositório</a>
+[View collaborative project ↗](https://github.com/danielperes1/BuscaLibras)
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## GITHUB ACTIVITY
+## GITHUB STATISTICS
 
 <div align="center">
 
@@ -157,7 +216,7 @@ Plataforma colaborativa que conecta pessoas e empresas a profissionais de Libras
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Sch1neider&theme=github-dark-blue&hide_border=true&background=080D18&ring=2496ED&fire=2496ED&currStreakLabel=2496ED" />
+<img width="85%" src="https://streak-stats.demolab.com?user=Sch1neider&theme=github-dark-blue&hide_border=true&background=080D18&ring=2496ED&fire=2496ED&currStreakLabel=2496ED" />
 
 <br/><br/>
 
@@ -165,15 +224,19 @@ Plataforma colaborativa que conecta pessoas e empresas a profissionais de Libras
 
 </div>
 
-<br/>
+---
 
-## CONTACT
+## CONNECT
 
 <div align="center">
 
 <a href="https://github.com/Sch1neider">
   <img src="https://img.shields.io/badge/GitHub-Sch1neider-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<sub>Cybersecurity · Cyber Defense · Security Operations · Software Development</sub>
 
 <br/><br/>
 
