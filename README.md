@@ -340,15 +340,7 @@ Explore my complete collection of public repositories, technical projects, and s
 ## GITHUB
 
 <div align="center">
-
-<a href="https://github.com/Sch1neider?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-1677C8?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/Sch1neider">
   <img src="https://img.shields.io/badge/SCH1NEIDER-0D1117?style=flat-square&logo=github&logoColor=white" />
 </a>
-
 </div>
