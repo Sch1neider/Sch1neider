@@ -25,14 +25,7 @@
 ---
 
 ## PROFESSIONAL PROFILE
-
-Cybersecurity and Systems Development professional focused on **information security, defensive security architecture, network infrastructure, and software engineering**.
-
-My technical interests cover the security lifecycle, from infrastructure hardening and attack-surface analysis to threat identification, vulnerability assessment, and incident investigation.
-
-On the engineering side, I work with backend architecture, API development, database systems, application security, and modular software design.
-
-I approach technology from two complementary perspectives: **engineering reliable systems and understanding how to secure them**.
+Systems Developer with a technical background in Cybersecurity, Network Infrastructure, and Penetration Testing, focused on designing, developing, and securing software systems and IT environments. My technical expertise encompasses Secure Software Development (SSDLC), Application Security (AppSec), Infrastructure Security, Network Defense, Vulnerability Assessment, and Penetration Testing methodologies. On the engineering side, I work with backend architecture, API development, database systems, TypeScript, system integration, and modular software design, applying security principles throughout the software development lifecycle. My focus is on identifying vulnerabilities, analyzing attack surfaces, understanding exploitation techniques, implementing defensive controls, and strengthening system resilience through a combination of software engineering, offensive security, and defensive security practices.
 
 ---
 
