@@ -11,6 +11,7 @@
   <strong>Cyber Defense</strong> &nbsp;|&nbsp;
   <strong>Security Operations</strong> &nbsp;|&nbsp;
   <strong>Backend Engineering</strong>
+   <strong>Frontend Application Security</strong>
 </p>
 
 <p>
